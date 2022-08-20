@@ -4,6 +4,9 @@ This a backend server of a Web application that allows CRUD operations on a data
 Create and READ can be done through the browser, but delete and update should be done through POSTMAN. This is because the HTML code is not written to
 execute these commands in the browser.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
 
 ## API Reference
 
@@ -59,6 +62,13 @@ that "Nothing is updated".
 
 Deletes user info if ID is valid otherwise if not prints a response 
 that "User not deleted".
+
+## 🛠 Skills
+Python , 
+Flask ,
+API design ,
+HTML
+
 
 
 
