@@ -10,7 +10,7 @@ execute these commands in the browser.
 #### READ all registered Users
 
 ```http
-  GET /All-Users
+  GET '/All-Users'
 ```
 
 Returns a List of all the Registered Users in the MongoDb table.
